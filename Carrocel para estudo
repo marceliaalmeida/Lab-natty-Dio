@@ -1,0 +1,44 @@
+# Simplificando: Tipos de Implantação de Nuvem ;)
+
+## 📒 Descrição
+Projeto para facilitar entendimento de tópicos a respeito da computação em núvem, 
+contando com o auxílio de IA para utilização de metáforas que tornam a assimilação 
+do conteúdo mais fácil.
+
+## 🤖 Tecnologias Utilizadas
+Gemini
+Copilot
+Leonardo.ai
+
+## 🧐 Processo de Criação
+1.Iniciei o processo procurando um texo base para fins de direcionamento de conteúdo para a IA, 
+o texto escolhido foi retirado diretamento do site da AWS.
+2.Fui no Gemini e dei o seguinte comando: 
+"Me escreva um conteúdo para linkedin, em forma de carrocel, sobre o texto a seguir, usando um 
+tom descontraído e explicando como se estivesse conversando adultos. Agora, utilize os elementos 
+em {RESUMO} para criar o {ROTEIRO}, seguindo as {REGRAS}. 
+{RESUMO} [Autoridade]: Especialista AWS jaqueta dourada [Avatar]: Estudantes de aws [Problema]: 
+Tipos de implantação em Nuvem 
+{ROTEIRO} Neste carrocel, vamos falar de [Problema]. 
+{REGRAS} > Siga o {ROTEIRO} acima e substitua os elementos entre colchetes por aqueles listados 
+em {RESUMO} acima. > Mantenha o tom e o ritmo, porém reescreva as palavras no {ROTEIRO} de maneira 
+a diferenciá-las do original, expandindo ou modificando conforme necessário, acrescentando os desafios 
+e vantagens de cada implantação."
+3.Após verificar o conteúdo e solicitar modificações que achei necessárias, solicitei o seguinte:
+"Baseado no conteúdo que você fez no carrocel, escreva um prompt em inglês (o Leonardo.AI só aceita
+prompts em inglês) para ser usado como comando para uma AI fazer as imagens de fundo do carrocel. 
+Também solicite que tenha uma marca dagua com o nome "marceliaalmeida""
+4.Colei o propt no Leonardo. AI, mas não fiquei satisfeita com o resultado, então pedi que passasse o 
+prompt pra português e solicitei ao Copilot que fizesse a imagem de fundo, a qual fui ajustando ao que 
+gostaria.
+
+## 🚀 Resultados
+Apresente os resultados do seu projeto
+Simplificando: Tipos de Implantação de Nuvem
+[Carrocel 1](https://github.com/marceliaalmeida/Lab-natty-Dio/blob/main/2.png)
+[Carrocel 2](https://github.com/marceliaalmeida/Lab-natty-Dio/blob/main/3.png)
+[Carrocel 3](https://github.com/marceliaalmeida/Lab-natty-Dio/blob/main/4.png)
+[Carrocel 4](https://github.com/marceliaalmeida/Lab-natty-Dio/blob/main/5.png)
+
+## 💭 Reflexão (Opcional)
+Comente sobre o desafio de criar algo 'natty' com IA.
